@@ -112,6 +112,12 @@ volumes:
 6. Run `pnpm run prod`
 7. Visit `http://localhost:9001` in your browser.
 
+<!-- 
+pnpm i
+pnpm run build:etherpad
+pnpm run prod 
+-->
+
 ### Docker container
 
 Find [here](doc/docker.adoc) information on running Etherpad in a container.
