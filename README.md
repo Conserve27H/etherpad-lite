@@ -114,7 +114,7 @@ volumes:
 
 <!-- 
 pnpm run build:etherpad
-pnpm run prod 
+pnpm run prod
 -->
 
 ### Docker container
